@@ -24,7 +24,7 @@ Tester: Akshita Oli
 ## 2. Setup and install
 
 ```bash
-git clone <this-repo-link>
+git clone https://github.com/Akshita-Oli/signup-automation.git
 cd signup-automation
 npm install
 npx playwright install chromium
